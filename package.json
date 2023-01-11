@@ -1,0 +1,21 @@
+{
+  "name": "dark-yellow",
+  "displayName": "Dark Yellow",
+  "description": "A dark yellow colorscheme for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Yellow-color-theme.json"
+      }
+    ]
+  }
+}
